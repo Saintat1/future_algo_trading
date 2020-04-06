@@ -1,0 +1,2 @@
+
+product = products.prodInfo("PDA")
